@@ -1,5 +1,6 @@
 {
     "name": "@adyen/adyen-web-main",
+    "version": "1.0.0",
     "keywords": [
         "adyen",
         "adyen-web",
