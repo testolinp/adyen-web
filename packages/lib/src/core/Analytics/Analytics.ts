@@ -6,7 +6,7 @@ import { CoreOptions } from '../types';
 
 class Analytics {
     private static defaultProps = {
-        enabled: true,
+        enabled: false,
         telemetry: true,
         conversion: false,
         conversionId: null
